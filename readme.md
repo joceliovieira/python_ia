@@ -1,5 +1,5 @@
 # Conteúdo: Python e IA
-Repositório criado para compartilhamento de conteúdos (vídeos, cursos, livros, etc) sobre Python e Inteligência Artificial.
+Repositório criado para compartilhamento de conteúdos (vídeos, cursos, livros, etc) sobre Python, Inteligência Artificial e afins.
 
 ## Conceitos Básicos
 
@@ -25,7 +25,7 @@ A imagem abaixo representa a relação entre as 3 áreas.
 
 ||
 |:--:|
-|![](/aimldl.png)|
+|![](images/aimldl.png)|
 |Fonte: [IBM: AI, machine learning and deep learning: What’s the difference?](https://www.ibm.com/blogs/systems/ai-machine-learning-and-deep-learning-whats-the-difference/)|
 
 
