@@ -3,7 +3,7 @@ Repositório criado para compartilhamento de conteúdos (vídeos, cursos, livros
 
 ## Conceitos Básicos
 
-**Disclaimer**: recomendo a leitura das documentações das bibliotecas a medida que forem surgindo dúvidas, mas não de forma integral, uma vez que as bibliotecas apresentam funcionalidades além do necessário nesse momento (básico apenas).
+**Disclaimer**: recomendo a leitura das documentações das bibliotecas à medida que forem surgindo dúvidas, mas não de forma integral, uma vez que as bibliotecas apresentam funcionalidades além do necessário nesse momento (básico apenas).
 
 - Python: linguagem de programação de alto nível utilizada, dentre outras aplicações, em diversos projetos de Inteligência Artificial, Aprendizado de Máquina (_Machine Learning_), Ciência/Engenharia de Dados.
 
