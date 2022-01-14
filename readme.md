@@ -20,7 +20,7 @@ Repositório criado para compartilhamento de conteúdos (vídeos, cursos, livros
 
 - Inteligência Artificial, Aprendizado de Máquina (_Machine Learning_) e Aprendizado Profundo ((_Deep Learning_)): importante saber diferenciar os 3 tópicos. A principal diferença está na forma de aprendizado envolvido.\
 Durante o processo utilizaremos de redes neurais para realizar algumas previsões, estas estão contidas na área do Aprendizado Profundo.\
-O seguinte artigo aborda essa questão: https://www.ibm.com/blogs/systems/ai-machine-learning-and-deep-learning-whats-the-difference/\
+O seguinte artigo aborda essa questão: https://www.ibm.com/blogs/systems/ai-machine-learning-and-deep-learning-whats-the-difference/ \
 A imagem abaixo representa a relação entre as 3 áreas.
 
 ||
