@@ -45,7 +45,7 @@ A imagem abaixo representa a relação entre as 3 áreas.
   Apresentação da biblioteca Pandas. O conteúdo apresentado por Teo, de forma geral, é excelente.
 
 ## RoadMap de Estudos
-1. Configuração de ambiente com Anaconda
+1. Configuração de ambiente com Anaconda: https://www.youtube.com/watch?v=XCvgyvBFjyM
 2. Python
     - Conceitos básicos: tipos de variáveis, tipos e estruturas de dados
     - Métodos, estruturas de repetição, condicionais, 
